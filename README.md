@@ -29,18 +29,18 @@ once the download is completed, but will be able to stream directly the video fe
 
 # Stack
 - **Back:**
-```
-Node.js express micro-framework
-MongoDb with mongoose ORM
-Torrent-stream
-FFMPEG
-API calls
-```
+
+>Node.js express micro-framework
+>MongoDb with mongoose ORM
+>Torrent-stream
+>FFMPEG
+>API calls
+
 - **Front:**
-```
-React Js with webpack, react-dom-router
-Styled components ...
-```
+
+>React Js with webpack, react-dom-router
+>Styled components ...
+
 # Manual
 
 ***1. Prepare DB***
@@ -64,6 +64,8 @@ $> cd client
 $> npm i
 $> serve -s build -p 3000
 ```
+Then go to ```http://localhost:3000``` in your Browser.
+
 - Back-End:
 ```ps
 $> cd server
@@ -71,14 +73,14 @@ $> npm i
 $> npm start
 ```
 ***Documentation***
-```
 
+In your browser go to : 
+```
+http://localhost:3001/api/documentation
 ```
 
 # Preview
 
-> Screenshots
-> 
 
 <img width="1710" alt="landing" src="https://user-images.githubusercontent.com/47644158/115154002-40d9f180-a068-11eb-8193-b2a2a75f01af.png">
 <img width="1705" alt="profile" src="https://user-images.githubusercontent.com/47644158/115154065-83033300-a068-11eb-8676-e426ac50e7e7.png">
@@ -93,7 +95,7 @@ $> npm start
 
 # Demo
 
-
+![Video](./assets/Hypertube.mp4)
 
 
 # General guidelines
