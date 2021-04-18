@@ -95,7 +95,8 @@ http://localhost:3001/api/documentation
 
 # Demo
 
-![Video](./assets/Hypertube.mp4)
+![Video](https://youtu.be/PkGFbFIp0DA)
+
 
 
 # General guidelines
