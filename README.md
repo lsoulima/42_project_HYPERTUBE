@@ -28,8 +28,19 @@ web player at the same time. Which means that the player won’t only show the v
 once the download is completed, but will be able to stream directly the video feed.
 
 # Stack
-
-
+- **Back:**
+```
+Node.js express micro-framework
+MongoDb with mongoose ORM
+Torrent-stream
+FFMPEG
+API calls
+```
+- **Front:**
+```
+React Js with webpack, react-dom-router
+Styled components ...
+```
 # Manual
 
 ***1. Prepare DB***
