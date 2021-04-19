@@ -126,7 +126,7 @@ the educational purpose of this project.
 :warning:  For example, libraries such as webtorrent,
 pulsar and peerflix are forbidden.
 
-:iphone:  Your website must be usable on a mobile phone and keep an acceptable layout on
+:iphone:  Our website must be usable on a mobile phone and keep an acceptable layout on
 small resolutions.
 
 
