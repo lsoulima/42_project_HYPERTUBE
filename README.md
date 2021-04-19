@@ -51,7 +51,7 @@ once the download is completed, but will be able to stream directly the video fe
 
 ***1. Prepare DB***
 
-Install MongoDB compass and connet to:
+Install MongoDB compass and connect to:
 ```
 mongodb://127.0.0.1:27017/
 ```
