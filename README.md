@@ -90,7 +90,7 @@ http://localhost:3001/api/documentation
 
 <img width="1710" alt="landing" src="https://user-images.githubusercontent.com/47644158/115154002-40d9f180-a068-11eb-8193-b2a2a75f01af.png">
 <img width="1497" alt="register" src="https://user-images.githubusercontent.com/47644158/115246293-480b0900-a115-11eb-91a6-eaf0aeacf659.png">
-<img width="579" alt="login" src="https://user-images.githubusercontent.com/47644158/115246845-c667ab00-a115-11eb-9d97-9b13e3c4d18c.png">
+<img width="1700" alt="login" src="https://user-images.githubusercontent.com/47644158/115246845-c667ab00-a115-11eb-9d97-9b13e3c4d18c.png">
 <img width="1705" alt="profile" src="https://user-images.githubusercontent.com/47644158/115154065-83033300-a068-11eb-8676-e426ac50e7e7.png">
 <img width="1708" alt="edit" src="https://user-images.githubusercontent.com/47644158/115154096-9dd5a780-a068-11eb-8590-9b2f93e5df36.png">
 <img width="1693" alt="browse" src="https://user-images.githubusercontent.com/47644158/115153992-33246c00-a068-11eb-970c-dc5960e6f2eb.png">
