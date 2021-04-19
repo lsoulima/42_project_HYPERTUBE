@@ -126,6 +126,11 @@ small resolutions.
 - [x] Manage different video resolutions.
 - [x] API RESTful.
 - [x] Delete Comment.
+- [x] Click on the profile to see who commented.
+- [x] Dark Theme.
+- [x] Arabic Subtitles.
+- [x] Suggestion movies
+- [x] Watched & Favorite lists in profile.
 
 # Subject
 [subject.pdf](https://github.com/lsoulima/Hypertube/files/6331781/subject.pdf)
