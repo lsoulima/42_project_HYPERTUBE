@@ -4,6 +4,7 @@
 ## Contents
 
 - [Introduction](#introduction)
+- [Team](#team)
 - [Stack](#stack)
 - [Manual](#manual)
 - [Preview](#preview)
@@ -26,6 +27,15 @@ example http://www.legittorrents.info, or even https://archive.org.
 Once the element selected, it will be downloaded from the server and streamed on the
 web player at the same time. Which means that the player won’t only show the video
 once the download is completed, but will be able to stream directly the video feed.
+
+# Team
+
+>lsoulima
+>
+>ayoubgm
+>
+>sberrich
+
 
 # Stack
 - **Back:**
