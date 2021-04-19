@@ -30,16 +30,22 @@ once the download is completed, but will be able to stream directly the video fe
 # Stack
 - **Back:**
 
->Node.js express micro-framework
+>Node.js express micro-framework, 
+>
 >MongoDb with mongoose ORM
 >Torrent-stream
+> 
 >FFMPEG
+>
 >API calls
 
 - **Front:**
 
 >React Js with webpack, react-dom-router
->Styled components ...
+>
+>Styled components
+>
+>Material-UI
 
 # Manual
 
@@ -52,7 +58,7 @@ mongodb://127.0.0.1:27017/
 
 ***2. Clone the repo***
 ```
-$> gcl 
+$> git clone https://github.com/lsoulima/Hypertube.git
 $> cd Hypertube
 ```
 
@@ -95,7 +101,7 @@ http://localhost:3001/api/documentation
 
 # Demo
 
-[Video](https://youtu.be/PkGFbFIp0DA)
+[Hypertube Demo in Youtube](https://youtu.be/PkGFbFIp0DA)
 
 
 
